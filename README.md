@@ -5,7 +5,6 @@
 
 ## Web Presence
 
-* [🐦 - Adron @ twitter.com](https://twitter.com/adron)
 * [🐘 - Adron @ metalhead.club](https://metalhead.club/web/@adron)
 * [🧵 - Adron @ Threads](https://www.threads.net/@adron)
 * [🛠️ - Adron @ Gitlab](https://gitlab.com/Adron)
